@@ -12,7 +12,7 @@ stato attuale della repository e ci mostra lo stato  della staging area
 aggiungi i file  della directory modificati  nella staging area
 
 ### git commit -m "messaggio"
-aggiunto il file nella cartella git delle commit
+viene creata una commit e associato un id univovo
 
 ### git config --global user.name
 setup del nome dello sviluppatore che viene fatto solo la prima volta
