@@ -2,16 +2,17 @@
 
 I comandi utilizzati in questo tutorial
 
-###git init
+### git init
 Inizializza la repository
 
-###git status
+### git status
 stato attuale della repository e ci mostra lo stato  della staging area
 
 ### git add . <nome-file>
-
 aggiungi i file  della directory modificati  nella staging area
+
 ### git commit -m "messaggio"
+aggiunto il file nella cartella git delle commit
 
 ### git config --global user.name
 setup del nome dello sviluppatore che viene fatto solo la prima volta
