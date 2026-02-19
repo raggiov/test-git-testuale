@@ -24,3 +24,6 @@ setat delle email dello sviluppatore che viene eseguito solo la prima volta
 
 ### git push -u origin main
 operazioni di  aggiornamento su repository remoto
+
+### git pull
+operazioni di  sincronizzazione del repository locale da quello remoto
