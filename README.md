@@ -27,3 +27,15 @@ operazioni di  aggiornamento su repository remoto
 
 ### git pull
 operazioni di  sincronizzazione del repository locale da quello remoto
+
+### git branch
+lista dei  branch
+
+### git branch nome-branch
+creazione di un branch
+
+### git checkout nome-branch
+ti sposti sul branch specifico
+
+### git merge nome-branch
+posizionadoti su un branch per esempio il main puoi incorporare le modifiche del nuovo branch
